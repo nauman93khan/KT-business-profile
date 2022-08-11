@@ -3,10 +3,15 @@ body {
 }
 
 img {
-  position: justify;
-  vertical-align: text-bottom;
-  height: 120px;
-  width: 120px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  /*position: justify;*/
+  /*vertical-align: text-bottom;*/
+  /*vertical-align: text-bottom;*/
+  /*height: 120px;*/
+  /*width: 120px;*/
 }
 
 h1 {
