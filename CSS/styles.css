@@ -1,0 +1,55 @@
+body {
+  background-color:#F5EDDC ;
+}
+
+img {
+  position: justify;
+  vertical-align: text-bottom;
+  height: 160px;
+  width: 160px;
+}
+
+h1 {
+  text-transform: capitalize;
+  color: #2B4865;
+  line-height: 0.1;
+}
+
+h3 {
+  margin-left: 20px;
+  text-transform: capitalize;
+  color: #2B4865;
+}
+
+h4{
+  margin-left: 20px;
+  text-transform: capitalize;
+  color: #2B4865;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #94B49F;
+  border-width: 5px;
+  width: 10%;
+}
+
+td{
+  padding: 15px;
+  text-align: left;
+}
+
+p{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: justify;
+  direction: ltr;
+  unicode-bidi: bidi-override;
+}
+
+form{
+  margin-left: 20px;
+}
